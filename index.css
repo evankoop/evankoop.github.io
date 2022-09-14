@@ -1,0 +1,40 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(rgba(152,237,242,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+.intro {
+    padding: 10px;
+    display: flex;
+    font-size: larger;
+    text-orientation: upright;
+    overflow: auto;
+    display: inline-block;
+    flex-wrap: wrap;
+}
+
+h1 {
+    position: relative;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.capstone {
+    height: 250px;
+}
+
+i {
+    font-size: 80px;
+    padding: 15px;
+}
+
